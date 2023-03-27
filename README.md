@@ -1,0 +1,1 @@
+With this lesson I'm gonna improve my skills as a developer to create a website from zero
